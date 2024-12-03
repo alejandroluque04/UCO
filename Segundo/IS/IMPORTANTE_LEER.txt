@@ -1,0 +1,7 @@
+Pasos para compilar el codigo y generar el ejecutable:
+1. Abre un terminal en el directorio build de esta carpeta
+2. Haz cmake ..
+3. Haz make
+4. El programa debe haber compilado correctamente y debe haber creado el ejecutable
+5. Dentro del directorio src encontrarás un directorio archivos. Abre dicho directorio y copia los archivos. Debes pegarlos en el directorio build/src/programa-main
+6. Ya podrás ejecutar el programa haciendo ./programa-main

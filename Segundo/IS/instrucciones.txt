@@ -1,0 +1,36 @@
+/*Clase Usuario*/
+
+/*Clase Actividad Academica*/
+
+/*Clase Prescripción*/
+
+/*Clase Pago*/
+
+
+Tenemos una clase Usuario que se inicializa al principio del programa pasándole al constructor una fecha de entrada. Al inicializarse se da valor al atributo ip automaticamente. Posteriormente, el programa da a elegir al usuario dos opciones de inicio de sesión: con credenciales o como invitado. En caso de escoger como invitado, el usuario solo tendrá acceso a listar las actividades académicas, y solo contará con los atributos fecha_entrada_ e ip_. 
+En caso de escoger inicio de sesión mediante credenciales, se pide un correo electronico, el programa lo busca en la bbdd, si hay correspondencia, pide la contraseña y verifica si esta corresponde al correo, de ser así, se inicializan todos los atributos del usuario según se han leído de la bbdd.                                                                       
+
+
+La clase Actividad Academica tendra los atr's :
+                                            nombre
+                                            descripcion
+                                            aforo
+                                            precio
+                                            lugar
+                                            fecha
+                                            director_academico
+                                            ponente
+                                            Métodos();
+                                            get_alumno(); ¿?
+
+La clase Preinscripción tendra los atr's:
+                                        id_preinscripción
+                                        correo
+                                        id_pago 
+
+La clase Pago tendra los atr's:
+                                identificador: id_pago id
+                                cantidad
+                                Métodos();
+                                get_precio();
+                                generar_factura();
