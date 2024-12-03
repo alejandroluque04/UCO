@@ -1,0 +1,217 @@
+usuario100@uco.es
+A1b2C3d4
+2
+Juan Perez Gonzalez
+12345678A
+Ciencias
+Quimica
+usuario101@uco.es
+E5f6G7h8
+2
+Maria Rodriguez Fernandez
+23456789B
+Educacion
+Ingenieria_Mecanica
+usuario102@uco.es
+I9j0K1l2
+2
+Luis Garcia Lopez
+34567890C
+Derecho
+Derecho
+usuario103@uco.es
+M3n4O5p6
+2
+Ana Martinez Sanchez
+45678901D
+Politecnica
+Ingenieria_Informatica
+usuario104@uco.es
+Q7r8S9t0
+2
+David Fernandez Ruiz
+56789012E
+Ciencias
+Matematicas
+usuario105@uco.es
+U1v2W3x4
+2
+Laura Sanchez Gomez
+67890123F
+Educacion
+ADE
+usuario106@uco.es
+Y5z6A7b8
+2
+Luis Perez Gonzalez
+78901234G
+Ciencias
+Fisica
+usuario107@uco.es
+C9d0E1f2
+2
+Maria Rodriguez Hernandez
+89012345H
+Politecnica
+Ingenieria_Electrica
+usuario108@uco.es
+I3j4K5l6
+2
+Luisa Garcia Campos
+90123456I
+Ciencias
+Quimica
+usuario109@uco.es
+M7n8O9p0
+2
+Ana Campos Garcia
+01234567J
+Educacion
+Matematicas
+usuario110@uco.es
+Q1r2S3t4
+2
+Ana Antunez Ruiz
+12345678K
+Politecnica
+Ingenieria_Mecanica
+usuario111@uco.es
+U5v6W7x8
+2
+Laura Sanches Gomez
+23456789L
+Ciencias
+Ingenieria_Electronica
+usuario112@uco.es
+Y9z0A1b2
+2
+Juan Luque Gonzalez
+34567890M
+Derecho
+Derecho
+usuario113@uco.es
+C3d4E5f6
+2
+Maria Luna Fernandez
+45678901N
+Educacion
+ADE
+usuario114@uco.es
+I7j8K9l0
+2
+Pedro Garcia Gomez
+56789012O
+Politecnica
+Ingenieria_Electrica
+usuario115@uco.es
+M1n2O3p4
+2
+Ana Ortiz Sanchez
+67890123P
+Ciencias
+Fisica
+usuario116@uco.es
+Q5r6S7t8
+4
+Luis Fernandez Ruiz
+78901234Q
+Educacion
+Matematicas
+usuario117@uco.es
+U9v0W1x2
+4
+Laura Barbudo Gomez
+89012345R
+Politecnica
+Ingenieria_Informatica
+usuario118@uco.es
+Y3z4A5b6
+4
+Jose Perez Luque
+90123456S
+Ciencias
+Quimica
+usuario119@uco.es
+C7d8E9f0
+3
+Alejandro Gutierrez Martin
+01234567T
+Derecho
+Derecho
+usuario120@uco.es
+I1j2K3l4
+3
+Sara Fernandez Lopez
+12345678U
+Ciencias
+Fisica
+usuario121@uco.es
+M5n6O7p8
+3
+Javier Ruiz Sanchez
+23456789V
+Educacion
+ADE
+usuario122@uco.es
+Q9r0S1t2
+3
+Elena Garcia Perez
+34567890W
+Politecnica
+Ingenieria_Electrica
+usuario123@uco.es
+U3v4W5x6
+3
+Adrian Moreno Gomez
+45678901X
+Ciencias
+Ingenieria_Electronica
+usuario124@uco.es
+Y7z8A9b0
+3
+Carmen Rodriguez Fernandez
+56789012Y
+Derecho
+Derecho
+usuario125@uco.es
+C1d2E3f4
+3
+Antonio Perez Lopez
+67890123Z
+Politecnica
+Ingenieria_Mecanica
+usuario126@uco.es
+I5j6K7l8
+3
+Isabel Gonzalez Ruiz
+89012345A
+Ciencias
+Matematicas
+usuario127@uco.es
+M9n0O1p2
+3
+Javier Sanchez Gomez
+90123456B
+Educacion
+Quimica
+usuario128@uco.es
+Q3r4S5t6
+3
+Elena Rodriguez Ruiz
+01234567C
+Politecnica
+Ingenieria_Informatica
+usuario129@uco.es
+U7v8W9x0
+3
+Adrian Fernandez Martin
+12345678D
+Ciencias
+Fisica
+usuario130@uco.es
+Y1z2A3b4
+3
+Sara Perez Gonzalez
+23456789E
+Derecho
+Derecho
